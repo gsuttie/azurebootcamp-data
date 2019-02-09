@@ -80,23 +80,23 @@
           "Time": "10:00 AM -10:30 AM",
           "Title": "Registration"
         },
-        {
-          "SessionId": "Common2",
-          "Time": "10:30 AM - 10:45 AM",
-          "Title": "TBC",
-          "Room": "Main Room - Introduction",
-          "Speaker": {
-            "Name": "Gregor Suttie",
-            "Organization": "Sword IT Solutions",
-            "Description": "As head of digital services and published author, Gregor is known throughout the Glasgow tech scene and beyond for his Azure knowledge.",
-            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/gregor.png",
-            "Social": {
-              "Twitter": "https://twitter.com/gregor_suttie?lang=en",
-              "Website": "http://www.techielass.com",
-              "Facebook": "http://www.facebook.com/techielass"
-            }
-          }
-        },
+        //{
+        //  "SessionId": "Common2",
+        //  "Time": "10:30 AM - 10:45 AM",
+        //  "Title": "TBC",
+        //  "Room": "Main Room - Introduction",
+        //  "Speaker": {
+        //    "Name": "Gregor Suttie",
+        //    "Organization": "Sword IT Solutions",
+        //    "Description": "As head of digital services and published author, Gregor is known throughout the Glasgow tech scene and beyond for his Azure knowledge.",
+        //    "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/gregor.png",
+        //    "Social": {
+        //      "Twitter": "https://twitter.com/gregor_suttie?lang=en",
+        //      "Website": "https://gregorsuttie.com/",
+        //      "Facebook": "#"
+        //    }
+        //  }
+        //},
         {
           "SessionId": "DEV1",
           "Time": "10:45 AM - 11:45 AM",
@@ -133,12 +133,12 @@
         },
         {
           "SessionId": "Common4",
-          "Time": "12:45 PM - 2:00 PM",
+          "Time": "12:45 PM - 1:30 PM",
           "Title": "Lunch"
         },
         {
           "SessionId": "DEV4",
-          "Time": "2:00 PM - 3:00 PM",
+          "Time": "1:30 PM - 2:30 PM",
           "Title": "CosmosDB in the real world",
           "Room": "Main Room - Session 3",
           "Speaker": {
@@ -155,7 +155,7 @@
         },
         {
           "SessionId": "DEV5",
-          "Time": "3:00 PM - 4:00 PM",
+          "Time": "2:30 PM - 3:30 PM",
           "Title": "TBA",
           "Room": "TBA",
           "Speaker": {
@@ -171,8 +171,25 @@
           }
         },
         {
+          "SessionId": "DEV6",
+          "Time": "4:45 PM - 5:45 PM",
+          "Title": "Logging, instrumentation, dashboards, alerts and all that - for developers",
+          "Room": "Main Room - Session 7",
+          "Speaker": {
+            "Name": "Henry Been - Microsoft MVP",
+            "Organization": "Freelance DevOps & Azure Architect",
+            "Description": "Henry Been is an independent architect and developer from The Netherlands. He enjoys working with software development teams to create and deliver great software. His interests include the Azure cloud, Agile, DevOps, software architecture and the design and implementation of testable and maintainable software.",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/henry.jpg",
+            "Social": {
+              "Twitter": "https://twitter.com/henry_been",
+              "Website": "http://www.henrybeen.nl/",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
           "SessionId": "Common6",
-          "Time": "4:00 PM - 5:00 PM",
+          "Time": "5:45 PM - 6:00 PM",
           "Title": "Closing & Prize Draw"
         }
       ]
