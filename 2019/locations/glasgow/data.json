@@ -154,8 +154,30 @@
           }
         },
         {
+          "SessionId": "Common5",
+          "Time": "3:30 PM - 3:45 PM",
+          "Title": "Break"
+        },
+        {
           "SessionId": "DEV5",
-          "Time": "2:30 PM - 3:30 PM",
+          "Time": "3:45 PM - 4:15 PM",
+          "Title": "TBA",
+          "Room": "TBA",
+          "Speaker": {
+            "Name": "TBA",
+            "Organization": "n/a",
+            "Description": "n/a",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+            "Social": {
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV5",
+          "Time": "4:15 PM - 4:45 PM",
           "Title": "TBA",
           "Room": "TBA",
           "Speaker": {
