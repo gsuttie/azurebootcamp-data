@@ -29,44 +29,44 @@
   ],
   "Sponsors": [
     {
-        "Name": "TBA",
-        "Image": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
-        "Link": "N/A"
-      },
-      {
-        "Name": "TBA",
-        "Image": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
-        "Link": "N/A/"
-      }
+      "Name": "TBA",
+      "Image": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+      "Link": "N/A"
+    },
+    {
+      "Name": "TBA",
+      "Image": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+      "Link": "N/A/"
+    }
   ],
   "Prizes": [
-{
-      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
       "Link": "#",
       "Name": "Coming Soon"
     }
@@ -145,7 +145,7 @@
             "Name": "TBA",
             "Organization": "n/a",
             "Description": "n/a",
-            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
             "Social": {
               "Twitter": "#",
               "Website": "#",
@@ -167,7 +167,7 @@
             "Name": "TBA",
             "Organization": "n/a",
             "Description": "n/a",
-            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
             "Social": {
               "Twitter": "#",
               "Website": "#",
@@ -184,7 +184,7 @@
             "Name": "TBA",
             "Organization": "n/a",
             "Description": "n/a",
-            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
             "Social": {
               "Twitter": "#",
               "Website": "#",
