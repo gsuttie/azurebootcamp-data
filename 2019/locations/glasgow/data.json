@@ -80,23 +80,6 @@
           "Time": "10:00 AM -10:30 AM",
           "Title": "Registration"
         },
-        //{
-        //  "SessionId": "Common2",
-        //  "Time": "10:30 AM - 10:45 AM",
-        //  "Title": "TBC",
-        //  "Room": "Main Room - Introduction",
-        //  "Speaker": {
-        //    "Name": "Gregor Suttie",
-        //    "Organization": "Sword IT Solutions",
-        //    "Description": "As head of digital services and published author, Gregor is known throughout the Glasgow tech scene and beyond for his Azure knowledge.",
-        //    "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/gregor.png",
-        //    "Social": {
-        //      "Twitter": "https://twitter.com/gregor_suttie?lang=en",
-        //      "Website": "https://gregorsuttie.com/",
-        //      "Facebook": "#"
-        //    }
-        //  }
-        //},
         {
           "SessionId": "DEV1",
           "Time": "10:45 AM - 11:45 AM",
@@ -154,6 +137,23 @@
           }
         },
         {
+          "SessionId": "DEV5",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "TBA",
+          "Room": "Main Room - Session 4",
+          "Speaker": {
+            "Name": "TBA",
+            "Organization": "n/a",
+            "Description": "n/a",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+            "Social": {
+              "Twitter": "#",
+              "Website": "#",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
           "SessionId": "Common5",
           "Time": "3:30 PM - 3:45 PM",
           "Title": "Break"
@@ -162,7 +162,7 @@
           "SessionId": "DEV5",
           "Time": "3:45 PM - 4:15 PM",
           "Title": "TBA",
-          "Room": "TBA",
+          "Room": "Main Room - Session 5",
           "Speaker": {
             "Name": "TBA",
             "Organization": "n/a",
@@ -179,7 +179,7 @@
           "SessionId": "DEV5",
           "Time": "4:15 PM - 4:45 PM",
           "Title": "TBA",
-          "Room": "TBA",
+          "Room": "Main Room - Session 6",
           "Speaker": {
             "Name": "TBA",
             "Organization": "n/a",
