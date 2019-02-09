@@ -104,7 +104,7 @@
           "Room": "Main Room - Session 1",
           "Speaker": {
             "Name": "Duncan Jones",
-            "Organization": "HedgeFacts",
+            "Organization": "Senior Developer at HedgeFacts",
             "Description": "Duncan is a developer in the Financial Services industry based in Dublin, with an interest in DDD and CQRS/ES - he has developed a DSL plug in for creating event sourcing systems in Visual Studio and is the organiser of the Dublin Software Craftsmanship meetup. ",
             "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/duncan.jpg",
             "Social": {
@@ -121,7 +121,7 @@
           "Room": "Main Room - Session 2",
           "Speaker": {
             "Name": "Angel M. Rayo",
-            "Organization": "Netmind",
+            "Organization": "Technical Lead Expert in Netmind",
             "Description": "MCT since 2005, MCSE Cloud, ITIL Expert and more than 10500 hours of training experience in several companies and events like MCT Global Summit, SQL Saturday, SharePoint Day, i.e.",
             "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/angel.jpg",
             "Social": {
@@ -139,16 +139,16 @@
         {
           "SessionId": "DEV4",
           "Time": "2:00 PM - 3:00 PM",
-          "Title": "TBA",
-          "Room": "TBA",
+          "Title": "CosmosDB in the real world",
+          "Room": "Main Room - Session 3",
           "Speaker": {
-            "Name": "TBA",
-            "Organization": "n/a",
-            "Description": "n/a",
-            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+            "Name": "Craig Nicol",
+            "Organization": "Technical Architect at Screenmedia Design Ltd",
+            "Description": ".Net/web developer with 15 years experience, mostly backend and data. Currently a technical architect at Microsoft Gold Partner, Screenmedia. I have worked in products and consulting for many clients, mainly on the web. My main interests are data security and performance. ",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/craig.jpg",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
+              "Twitter": "https://twitter.com/craignicol",
+              "Website": "https://craignicol.wordpress.com/",
               "Facebook": "#"
             }
           }
