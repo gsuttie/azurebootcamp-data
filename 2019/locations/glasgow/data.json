@@ -84,7 +84,7 @@
           "SessionId": "Common2",
           "Time": "10:30 AM - 10:45 AM",
           "Title": "TBC",
-          "Room": "Introduction",
+          "Room": "Main Room - Introduction",
           "Speaker": {
             "Name": "Gregor Suttie",
             "Organization": "Sword IT Solutions",
@@ -101,7 +101,7 @@
           "SessionId": "DEV1",
           "Time": "10:45 AM - 11:45 AM",
           "Title": "Globally distributed computing for pennies",
-          "Room": "N/A",
+          "Room": "Main Room - Session 1",
           "Speaker": {
             "Name": "Duncan Jones",
             "Organization": "HedgeFacts",
@@ -117,15 +117,15 @@
         {
           "SessionId": "DEV2",
           "Time": "11:45 AM - 12:45 AM",
-          "Title": "TBA",
-          "Room": "TBA",
+          "Title": "Azure DevOps from rookie to DevStar",
+          "Room": "Main Room - Session 2",
           "Speaker": {
-            "Name": "TBA",
-            "Organization": "n/a",
-            "Description": "n/a",            
-            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+            "Name": "Ángel M. Rayo",
+            "Organization": "Netmind",
+            "Description": "MCT since 2005, MCSE Cloud, ITIL Expert and more than 10500 hours of training experience in several companies and events like MCT Global Summit, SQL Saturday, SharePoint Day, i.e.",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/angel.jpg",
             "Social": {
-              "Twitter": "#",
+              "Twitter": "https://www.twitter.com/oyara",
               "Website": "#",
               "Facebook": "#"
             }
