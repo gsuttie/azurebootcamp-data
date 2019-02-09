@@ -100,16 +100,16 @@
         {
           "SessionId": "DEV1",
           "Time": "10:45 AM - 11:45 AM",
-          "Title": "TBA",
-          "Room":  "TBA",
+          "Title": "Globally distributed computing for pennies",
+          "Room": "N/A",
           "Speaker": {
-            "Name": "TBA",
+            "Name": "Duncan Jones",
             "Organization": "n/a",
             "Description": "n/a",
-            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/comingsoon.png",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/duncan.jpg",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
+              "Twitter": "https://twitter.com/Merrion",
+              "Website": "https://merrioncomputing.blogspot.com/",
               "Facebook": "#"
             }
           }
