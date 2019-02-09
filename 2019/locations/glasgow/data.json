@@ -104,9 +104,9 @@
           "Room": "N/A",
           "Speaker": {
             "Name": "Duncan Jones",
-            "Organization": "n/a",
+            "Organization": "HedgeFacts",
             "Description": "Duncan is a developer in the Financial Services industry based in Dublin, with an interest in DDD and CQRS/ES - he has developed a DSL plug in for creating event sourcing systems in Visual Studio and is the organiser of the Dublin Software Craftsmanship meetup. ",
-            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/globalazurebootcamp/master/2019/azurebootcamp-data/2019/locations/glasgow/duncan.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/duncan.jpg",
             "Social": {
               "Twitter": "https://twitter.com/Merrion",
               "Website": "https://merrioncomputing.blogspot.com/",
