@@ -83,7 +83,7 @@
         {
           "SessionId": "DEV1",
           "Time": "10:45 AM - 11:45 AM",
-          "Title": "Globally distributed computing for pennies.  Using Azure serverless functions, Event Grid, CQRS and event sourcing to build an extremely low cost system that scales to meet demand.",
+          "Title": "Globally distributed computing for pennies. \\n\\n Using Azure serverless functions, Event Grid, CQRS and event sourcing to build an extremely low cost system that scales to meet demand.",
           "Room": "Main Room - Session 1",
           "Speaker": {
             "Name": "Duncan Jones",
