@@ -178,15 +178,15 @@
         {
           "SessionId": "DEV5",
           "Time": "4:15 PM - 4:45 PM",
-          "Title": "TBA",
+          "Title": "Office365 Migrations in the tens of thousands",
           "Room": "Main Room - Session 6",
           "Speaker": {
-            "Name": "TBA",
-            "Organization": "n/a",
-            "Description": "n/a",
-            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+            "Name": "Colin Chaplin",
+            "Organization": "Infrastructure Architect at Centrica ",
+            "Description": "This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which don’t attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/colin.jpg",
             "Social": {
-              "Twitter": "#",
+              "Twitter": "http://twitter.com/colinchaplin",
               "Website": "#",
               "Facebook": "#"
             }
