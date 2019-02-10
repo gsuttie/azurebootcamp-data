@@ -178,7 +178,7 @@
         {
           "SessionId": "DEV5",
           "Time": "4:15 PM - 4:45 PM",
-          "Title": "Office365 Migrations in the tens of thousands",
+          "Title": "Office365 Migrations in the tens of thousands - This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which don’t attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
           "Room": "Main Room - Session 6",
           "Speaker": {
             "Name": "Colin Chaplin",
@@ -195,7 +195,7 @@
         {
           "SessionId": "DEV6",
           "Time": "4:45 PM - 5:45 PM",
-          "Title": "Logging, instrumentation, dashboards, alerts and all that - for developers",
+          "Title": "Logging, instrumentation, dashboards, alerts and all that - for developers.  Embracing DevOps entails more than just shipping changes to production faster and faster. Your team is suddenly also responsible for monitoring your software in production and detecting and troubleshooting issues. To work together with operation specialists in your team or maybe even embrace a #NoOps approach, you as the developer, need to learn about monitoring.",
           "Room": "Main Room - Session 7",
           "Speaker": {
             "Name": "Henry Been - Microsoft MVP",
