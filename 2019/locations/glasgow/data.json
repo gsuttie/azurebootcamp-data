@@ -100,12 +100,12 @@
         {
           "SessionId": "DEV2",
           "Time": "11:45 AM - 12:45 AM",
-          "Title": "Azure DevOps from rookie to DevStar",
+          "Title": "Azure DevOps from rookie to DevStar - In this session we will cover all the components of Azure DevOps in order to deploy an application to Azure environment using ACS or AKS.",
           "Room": "Main Room - Session 2",
           "Speaker": {
             "Name": "Angel M. Rayo",
             "Organization": "Technical Lead Expert in Netmind",
-            "Description": "MCT since 2005, MCSE Cloud, ITIL Expert and more than 10500 hours of training experience in several companies and events like MCT Global Summit, SQL Saturday, SharePoint Day, i.e.",
+            "Description": "test",
             "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/angel.jpg",
             "Social": {
               "Twitter": "https://www.twitter.com/oyara",
