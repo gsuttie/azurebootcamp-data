@@ -122,7 +122,7 @@
         {
           "SessionId": "DEV4",
           "Time": "1:30 PM - 2:30 PM",
-          "Title": "CosmosDB in the real world",
+          "Title": "CosmosDB in the real world - As a C# developer, I built a Cosmosdb backend for a global real-time platform, working with Microsoft. I'll introduce Cosmosdb, and why you might want to use it instead of other Azure Data options, and I'll talk about some of the pitfalls I discovered, and upcoming/recent changes that Microsoft have made.",
           "Room": "Main Room - Session 3",
           "Speaker": {
             "Name": "Craig Nicol",
@@ -183,7 +183,7 @@
           "Speaker": {
             "Name": "Colin Chaplin",
             "Organization": "Infrastructure Architect at Centrica ",
-            "Description": "This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which don’t attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
+            "Description": "This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which dont attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
             "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/colin.jpg",
             "Social": {
               "Twitter": "http://twitter.com/colinchaplin",
