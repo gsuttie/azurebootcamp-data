@@ -84,8 +84,8 @@
         {
           "SessionId": "DEV1",
           "Time": "10:45 AM - 11:45 AM",
-          "Title": "Globally distributed computing for pennies - Using Azure serverless functions, Event Grid, CQRS and event sourcing to build an extremely low cost system that scales to meet demand.",
-          "Room": "Main Room - Session 1",
+          "Title": "Globally distributed computing for pennies",
+          "Room": "Using Azure serverless functions, Event Grid, CQRS and event sourcing to build an extremely low cost system that scales to meet demand.",
           "Speaker": {
             "Name": "Duncan Jones",
             "Organization": "Senior Developer at HedgeFacts",
@@ -101,8 +101,8 @@
         {
           "SessionId": "DEV2",
           "Time": "11:45 AM - 12:45 AM",
-          "Title": "Azure DevOps from rookie to DevStar - In this session we will cover all the components of Azure DevOps in order to deploy an application to Azure environment using ACS or AKS.",
-          "Room": "Main Room - Session 2",
+          "Title": "Azure DevOps from rookie to DevStar",
+          "Room": "In this session we will cover all the components of Azure DevOps in order to deploy an application to Azure environment using ACS or AKS.",
           "Speaker": {
             "Name": "Angel M Rayo",
             "Organization": "Technical Lead Expert in Netmind",
@@ -123,8 +123,8 @@
         {
           "SessionId": "DEV4",
           "Time": "1:30 PM - 2:30 PM",
-          "Title": "CosmosDB in the real world - As a C# developer, I built a Cosmosdb backend for a global real-time platform, working with Microsoft. I'll introduce Cosmosdb, and why you might want to use it instead of other Azure Data options, and I'll talk about some of the pitfalls I discovered, and upcoming/recent changes that Microsoft have made.",
-          "Room": "Main Room - Session 3",
+          "Title": "CosmosDB in the real world",
+          "Room": "As a C# developer, I built a Cosmosdb backend for a global real-time platform, working with Microsoft. I'll introduce Cosmosdb, and why you might want to use it instead of other Azure Data options, and I'll talk about some of the pitfalls I discovered, and upcoming/recent changes that Microsoft have made.",
           "Speaker": {
             "Name": "Craig Nicol",
             "Organization": "Technical Architect at Screenmedia Design Ltd",
@@ -140,8 +140,8 @@
         {
           "SessionId": "DEV5",
           "Time": "2:30 PM - 3:30 PM",
-          "Title": "Building mostly serverless distributed cloud systems step by step - Serverless is definitely here to stay, and there are also more and more frameworks meant to ease serverless containers and functions development (even across clouds) becoming stable every day. Although the idea behind serverless is not to worry about the infrastructure, you still need to worry about how long will it take to scale, and that's where things like cold starts, preheating, multiple deployments, and hybrid environments come into play. Basically, serverless is a great tool when used where needed, and that's the topic of this talk - learn how to build a serverless system, talk about some caveats, and discuss alternatives.",
-          "Room": "Main Room - Session 4",
+          "Title": "Building mostly serverless distributed cloud systems step by step",
+          "Room": "Serverless is definitely here to stay, and there are also more and more frameworks meant to ease serverless containers and functions development (even across clouds) becoming stable every day. Although the idea behind serverless is not to worry about the infrastructure, you still need to worry about how long will it take to scale, and that's where things like cold starts, preheating, multiple deployments, and hybrid environments come into play. Basically, serverless is a great tool when used where needed, and that's the topic of this talk - learn how to build a serverless system, talk about some caveats, and discuss alternatives.",
           "Speaker": {
             "Name": "Ivan Culjak",
             "Organization": "Cloud Solution Architect @ Celeste Maze",
@@ -162,8 +162,8 @@
         {
           "SessionId": "DEV5",
           "Time": "3:45 PM - 4:45 PM",
-          "Title": "Office365 Migrations in the tens of thousands - This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which don’t attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
-          "Room": "Main Room - Session 5",
+          "Title": "Office365 Migrations in the tens of thousands",
+          "Room": "This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which don’t attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
           "Speaker": {
             "Name": "Colin Chaplin",
             "Organization": "End User Computing Architect",
@@ -179,8 +179,8 @@
         {
           "SessionId": "DEV6",
           "Time": "4:45 PM - 5:45 PM",
-          "Title": "Logging, instrumentation, dashboards, alerts and all that - for developers.  Embracing DevOps entails more than just shipping changes to production faster and faster. Your team is suddenly also responsible for monitoring your software in production and detecting and troubleshooting issues. To work together with operation specialists in your team or maybe even embrace a #NoOps approach, you as the developer, need to learn about monitoring.",
-          "Room": "Main Room - Session 7",
+          "Title": "Logging, instrumentation, dashboards, alerts and all that - for developers.",
+          "Room": "Embracing DevOps entails more than just shipping changes to production faster and faster. Your team is suddenly also responsible for monitoring your software in production and detecting and troubleshooting issues. To work together with operation specialists in your team or maybe even embrace a #NoOps approach, you as the developer, need to learn about monitoring.",
           "Speaker": {
             "Name": "Henry Been - Microsoft MVP",
             "Organization": "Freelance DevOps & Azure Architect",
