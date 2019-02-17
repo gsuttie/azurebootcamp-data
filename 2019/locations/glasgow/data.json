@@ -140,7 +140,7 @@
         {
           "SessionId": "DEV5",
           "Time": "2:30 PM - 3:30 PM",
-          "Title": "Building mostly serverless distributed cloud systems step by step",
+          "Title": "Building mostly serverless distributed cloud systems step by step - Serverless is definitely here to stay, and there are also more and more frameworks meant to ease serverless containers and functions development (even across clouds) becoming stable every day. Although the idea behind serverless is not to worry about the infrastructure, you still need to worry about how long will it take to scale, and that's where things like cold starts, preheating, multiple deployments, and hybrid environments come into play. Basically, serverless is a great tool when used where needed, and that's the topic of this talk - learn how to build a serverless system, talk about some caveats, and discuss alternatives.",
           "Room": "Main Room - Session 4",
           "Speaker": {
             "Name": "Ivan Culjak",
@@ -162,7 +162,7 @@
         {
           "SessionId": "DEV5",
           "Time": "3:45 PM - 4:45 PM",
-          "Title": "Office365 Migrations in the tens of thousands - ",
+          "Title": "Office365 Migrations in the tens of thousands - This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which don’t attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
           "Room": "Main Room - Session 5",
           "Speaker": {
             "Name": "Colin Chaplin",
