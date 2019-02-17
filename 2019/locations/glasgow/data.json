@@ -140,16 +140,16 @@
         {
           "SessionId": "DEV5",
           "Time": "2:30 PM - 3:30 PM",
-          "Title": "TBA",
+          "Title": "Building mostly serverless distributed cloud systems step by step",
           "Room": "Main Room - Session 4",
           "Speaker": {
-            "Name": "TBA",
-            "Organization": "n/a",
-            "Description": "n/a",
+            "Name": "Ivan Culjak",
+            "Organization": "Cloud Solution Architect @ Celeste Maze",
+            "Description": "Ivan is a .NET freelance developer in love with Azure, Xamarin, and the idea of automating whatever. When he’s not developing something new, he’s salvaging something inherited, consulting with enthusiasm, and testing and breaking new technologies in a quest for something useful. ",
             "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
+              "Twitter": "https://twitter.com/culjakivan",
+              "Website": "https://www.culjak.xyz/",
               "Facebook": "#"
             }
           }
@@ -161,33 +161,16 @@
         },
         {
           "SessionId": "DEV5",
-          "Time": "3:45 PM - 4:15 PM",
-          "Title": "TBA",
+          "Time": "3:45 PM - 4:45 PM",
+          "Title": "Office365 Migrations in the tens of thousands - ",
           "Room": "Main Room - Session 5",
           "Speaker": {
-            "Name": "TBA",
-            "Organization": "n/a",
-            "Description": "n/a",
+            "Name": "Colin Chaplin",
+            "Organization": "End User Computing Architect",
+            "Description": "Colin is a freelance IT consultant with over 20 years experience in end user computing, especially Exchange, Office365 and Windows 10. He has spoke at Microsoft TechReady and written for the Microsoft Technet UK blog and Practical365.co",
             "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
             "Social": {
-              "Twitter": "#",
-              "Website": "#",
-              "Facebook": "#"
-            }
-          }
-        },
-        {
-          "SessionId": "DEV5",
-          "Time": "4:15 PM - 4:45 PM",
-          "Title": "Office365 Migrations in the tens of thousands - This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which don’t attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
-          "Room": "Main Room - Session 6",
-          "Speaker": {
-            "Name": "Colin Chaplin",
-            "Organization": "Infrastructure Architect at Centrica ",
-            "Description": "This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which dont attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
-            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/colin.jpg",
-            "Social": {
-              "Twitter": "http://twitter.com/colinchaplin",
+              "Twitter": "https://twitter.com/colinchaplin",
               "Website": "#",
               "Facebook": "#"
             }

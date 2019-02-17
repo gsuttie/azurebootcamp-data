@@ -2,13 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\2016\\locations",
+    "\\2016\\locations\\aarhus-denmark",
+    "\\2016\\locations\\demo",
+    "\\2016\\locations\\hongkong",
+    "\\2016\\locations\\malaysia",
+    "\\2017\\guide",
     "\\2017\\locations",
     "\\2017\\locations\\singapore",
-    "\\2019",
-    "\\2019\\guide",
-    "\\2019\\locations",
-    "\\2019\\locations\\glasgow"
+    "\\2019\\locations"
   ],
-  "SelectedNode": "\\2019",
+  "SelectedNode": "\\2016",
   "PreviewInSolutionExplorer": false
 }
