@@ -26,7 +26,7 @@
         "Website": "https://gregorsuttie.com/"
       }
     }
-    
+
   ],
   "Sponsors": [
     {
@@ -44,7 +44,7 @@
     {
       "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/swag.jpg",
       "Link": "#",
-      "Name": "Microsoft Stickers, t-shirts, pens and keyrings" 
+      "Name": "Microsoft Stickers, t-shirts, pens and keyrings"
     },
     {
       "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
@@ -81,6 +81,23 @@
           "Time": "10:00 AM -10:30 AM",
           "Title": "Registration"
         },
+        { 
+          "SessionId": "Common2", 
+          "Time": "10:30 AM - 10:45 AM", 
+          "Title": "Keynote", 
+          "Room": "", 
+          "Speaker": { 
+            "Name": "Gregor Suttie", 
+            "Organization": "Sword UK - Head of Development Services", 
+            "Description": "Gregor has 23 years experience in IT, working mostly as a dev and has a backgroung in .NET an Azure and is a Devops specialist.", 
+            "ImageUrl": "https://raw.githubusercontent.com/weeyin83/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/glasgow/sarahlean.jpg", 
+            "Social": { 
+              "Twitter": "http://www.twitter.com/gregor_suttie", 
+              "Website": "http://www.gregorsuttie.com", 
+              "Facebook": "#" 
+            } 
+          } 
+        }, 
         {
           "SessionId": "DEV1",
           "Time": "10:45 AM - 11:45 AM",
