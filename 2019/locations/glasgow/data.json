@@ -141,7 +141,7 @@
           "SessionId": "DEV5",
           "Time": "2:30 PM - 3:30 PM",
           "Title": "Building mostly serverless distributed cloud systems step by step",
-          "Room": "Serverless is definitely here to stay, and there are also more and more frameworks meant to ease serverless containers and functions development (even across clouds) becoming stable every day. Although the idea behind serverless is not to worry about the infrastructure, you still need to worry about how long will it take to scale, and that's where things like cold starts, preheating, multiple deployments, and hybrid environments come into play. Basically, serverless is a great tool when used where needed, and that's the topic of this talk - learn how to build a serverless system, talk about some caveats, and discuss alternatives.",
+          "Room": "Serverless is definitely here to stay, and there are also more and more frameworks meant to ease serverless containers and functions development (even across clouds) becoming stable every day. Although the idea behind serverless is not to worry about the infrastructure, you still need to worry about how long will it take to scale, and thats where things like cold starts, preheating, multiple deployments, and hybrid environments come into play. Basically, serverless is a great tool when used where needed, and that's the topic of this talk - learn how to build a serverless system, talk about some caveats, and discuss alternatives.",
           "Speaker": {
             "Name": "Ivan Culjak",
             "Organization": "Cloud Solution Architect @ Celeste Maze",
