@@ -4,8 +4,8 @@
   },
   "Location": {
     "Name": "Glasgow",
-    "Latitude": 55.8606062,
-    "Longitude": -4.245606700000053,
+    "Latitude": "55.8606062",
+    "Longitude": "-4.245606700000053",
     "Address": "22 Montrose St, Glasgow G1 1RE"
   },
   "Social": {
