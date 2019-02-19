@@ -163,7 +163,7 @@
           "SessionId": "DEV5",
           "Time": "3:45 PM - 4:45 PM",
           "Title": "Office365 Migrations in the tens of thousands",
-          "Room": "This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which don’t attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
+          "Room": "This session will describe challenges (and solutions) migrating large organisations to office365. The goal is to spend time looking at areas which dont attract much attention in typical articles and is based on years of lessons learnt the hard way. Topics covered include Azure AD, Conditional Access, Email and using office365 as the base to integrate merging companies.",
           "Speaker": {
             "Name": "Colin Chaplin",
             "Organization": "End User Computing Architect",
