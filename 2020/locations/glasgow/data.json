@@ -1,0 +1,221 @@
+{
+  "Event": {
+    "Date": "25-04-2020"
+  },
+  "Location": {
+    "Name": "Glasgow",
+    "Latitude": "55.8606062",
+    "Longitude": "-4.245606700000053",
+    "Address": "22 Montrose St, Glasgow G1 1RE"
+  },
+  "Social": {
+    "Eventbrite": "",
+    "Facebook": "https://www.facebook.com/GlasgowAzureUG"
+  },
+  "Callout": {
+    "Text": "N/A",
+    "Link": "N/A",
+    "Type": "N/A"
+  },
+  "Organizers": [
+    {
+      "Name": "Gregor Suttie",
+      "Social": {
+        "Email": "gsuttie2001@hotmail.com",
+        "Twitter": "https://twitter.com/gregor_suttie?lang=en",
+        "Website": "https://gregorsuttie.com/"
+      }
+    }
+
+  ],
+  "Sponsors": [
+    {
+      "Name": "TBA",
+      "Image": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2020/locations/glasgow/comingsoon.png",
+      "Link": "N/A"
+    },
+    {
+      "Name": "TBA",
+      "Image": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2020/locations/glasgow/comingsoon.png",
+      "Link": "N/A/"
+    }
+  ],
+  "Prizes": [
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2020/locations/glasgow/swag.jpg",
+      "Link": "#",
+      "Name": "Microsoft Stickers, t-shirts, pens and keyrings"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2020/locations/glasgow/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2020/locations/glasgow/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    }
+  ],
+  "Tracks": [
+    {
+      "Name": "Bootcamp Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "10:00 AM -10:30 AM",
+          "Title": "Registration"
+        },
+        { 
+          "SessionId": "Common2", 
+          "Time": "10:30 AM - 10:45 AM", 
+          "Title": "Keynote", 
+          "Room": "Keynote and Welcome to the Global Azure Bootcamp Glasgow 2019 edition.",
+          "Speaker": {
+            "Name": "Gregor Suttie",
+            "Organization": "Sword UK - Head of Development Services",
+            "Description": "Gregor has 23 years experience in IT, working mostly as a dev and has a background in .NET an Azure and is a Devops specialist. He is also an Azure fanboy and keen golfer",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/gregor.png",
+            "Social": {
+              "Twitter": "http://www.twitter.com/gregor_suttie",
+              "Website": "http://www.gregorsuttie.com",
+              "Facebook": "#"
+            }
+          } 
+        }, 
+        {
+          "SessionId": "DEV1",
+          "Time": "10:45 AM - 11:45 AM",
+          "Title": "",
+          "Room": "",
+          "Speaker": {
+            "Name": "",
+            "Organization": "",
+            "Description": "",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+            "Social": {
+              "Twitter": "https://twitter.com/",
+              "Website": "",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV2",
+          "Time": "11:45 AM - 12:45 AM",
+          "Title": "",
+          "Room": "",
+          "Speaker": {
+            "Name": "",
+            "Organization": "",
+            "Description": "",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+            "Social": {
+              "Twitter": "https://www.twitter.com/",
+              "Website": "#",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "12:45 PM - 1:30 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DEV4",
+          "Time": "1:30 PM - 2:30 PM",
+          "Title": "",
+          "Room": "",
+          "Speaker": {
+            "Name": "Craig Nicol",
+            "Organization": "",
+            "Description": "",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV5",
+          "Time": "2:30 PM - 3:30 PM",
+          "Title": "",
+          "Room": "",
+          "Speaker": {
+            "Name": "",
+            "Organization": "",
+            "Description": "",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+            "Social": {
+              "Twitter": "https://twitter.com/",
+              "Website": "",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common5",
+          "Time": "3:30 PM - 3:45 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV5",
+          "Time": "3:45 PM - 4:45 PM",
+          "Title": "",
+          "Room": "",
+          "Speaker": {
+            "Name": "",
+            "Organization": "",
+            "Description": "",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+            "Social": {
+              "Twitter": "https://twitter.com/",
+              "Website": "#",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV6",
+          "Time": "4:45 PM - 5:45 PM",
+          "Title": "",
+          "Room": "",
+          "Speaker": {
+            "Name": "",
+            "Organization": "",
+            "Description": "",
+            "ImageUrl": "https://raw.githubusercontent.com/gsuttie/azurebootcamp-data/master/2019/locations/glasgow/comingsoon.png",
+            "Social": {
+              "Twitter": "https://twitter.com/",
+              "Website": "",
+              "Facebook": "#"
+            }
+          }
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "5:45 PM - 6:00 PM",
+          "Title": "Closing & Prize Draw"
+        }
+      ]
+    }
+  ]
+}
